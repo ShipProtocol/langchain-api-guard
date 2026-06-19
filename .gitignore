@@ -1,0 +1,11 @@
+# BotGuardian Local Database
+api_ledger.db
+*.db
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment Variables (Never push API keys)
+.env
